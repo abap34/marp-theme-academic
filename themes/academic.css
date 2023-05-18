@@ -1,4 +1,4 @@
-/* @theme academic */
+/* @theme abap-academic */
 
 @import 'gaia';
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
@@ -7,7 +7,7 @@
 :root {
   --color-background: #fff;
   --color-foreground: #333;
-  --color-highlight: #800000;
+  --color-highlight: #6c93ff;
 }
 
 section {
@@ -29,47 +29,48 @@ ul ul {
 }
 
 section.lead h1 {
-  color: #800000;
+  color: #6c93ff;
   text-align: left;
 }
 section.lead h1 strong {
-  -webkit-text-stroke: 1px #800000;
+  -webkit-text-stroke: 1px #6c93ff;
 }
 section.lead h2 {
-  color: #800000;
+  color: #6c93ff;
   text-align: left;
 }
 section.lead h2 strong {
-  -webkit-text-stroke: 1px #800000;
+  -webkit-text-stroke: 1px #6c93ff;
 }
 section.lead h3 {
-  color: #800000;
+  color: #6c93ff;
   text-align: left;
 }
 section.lead h3 strong {
-  -webkit-text-stroke: 1px #800000;
+  -webkit-text-stroke: 1px #6c93ff;
 }
 section.lead h4 {
-  color: #800000;
+  color: #6c93ff;
   text-align: left;
 }
 section.lead h4 strong {
-  -webkit-text-stroke: 1px #800000;
+  -webkit-text-stroke: 1px #6c93ff;
 }
 section.lead h5 {
-  color: #800000;
+  color: #6c93ff;
   text-align: left;
 }
 section.lead h5 strong {
-  -webkit-text-stroke: 1px #800000;
+  -webkit-text-stroke: 1px #6c93ff;
 }
 section.lead p {
   text-align: right;
 }
 
 header {
-  background-color: #800000;
+  background-color: #6c93ff00;
   color: #fff;
+  border-bottom: 0.1em solid #6c93ff;
   font-size: 1em;
   font-weight: 700;
 }
