@@ -97,7 +97,7 @@ code {
   font-family: 'Source Code Pro', monospace;
 }
 
-div.tweet {
+div.info {
   background: #eaf6fa;
   border: solid 4px #97bff3;
   border-radius: 16px;
@@ -108,7 +108,22 @@ div.tweet {
   font-size: 80%;
 }
 
-div.tweet strong {
+div.info strong {
+  color: var(--text-main-color);
+}
+
+div.warn {
+  background: #eaf6fa;
+  border: solid 4px #f3de97;
+  border-radius: 16px;
+  padding: 0.5rem 1rem 0 1rem;
+  margin: 0rem 1rem;
+  position: relative;
+  opacity: 0.8;
+  font-size: 80%;
+}
+
+div.warn strong {
   color: var(--text-main-color);
 }
 
