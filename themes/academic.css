@@ -112,8 +112,10 @@ div.info strong {
   color: var(--text-main-color);
 }
 
+
+
 div.warn {
-  background: #eaf6fa;
+  background: #eedfad;
   border: solid 4px #f3de97;
   border-radius: 16px;
   padding: 0.5rem 1rem 0 1rem;
