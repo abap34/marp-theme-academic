@@ -143,3 +143,19 @@ div.itembox {
 div.itembox strong {
   color: var(--text-main-color);
 }
+
+div.defbox {
+  background: #eaf6fa;
+  border: solid 4px #97f3b6;
+  border-radius: 16px;
+  padding: 0.5rem 1rem 0 1rem;
+  margin: 0rem 1rem;
+  position: relative;
+  opacity: 0.8;
+  font-size: 80%;
+}
+
+div.defbox strong {
+  color: var(--text-main-color);
+}
+
